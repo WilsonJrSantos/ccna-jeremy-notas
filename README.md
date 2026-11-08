@@ -4,13 +4,13 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 2 de 64 &nbsp; `█░░░░░░░░░░░░░░░░░░░` 3 % &nbsp;·&nbsp; actualizado el 2026-11-08
+**Avance:** 3 de 64 &nbsp; `█░░░░░░░░░░░░░░░░░░░` 5 % &nbsp;·&nbsp; actualizado el 2026-11-08
 
 | Día | Tema | Estado |
 |---|---|---|
 | Día 01 | [Dispositivos de red](dias/dia-01-dispositivos-de-red/README.md) | ✅ |
 | Día 02 | [Interfaces y cables](dias/dia-02-interfaces-y-cables/README.md) | ✅ |
-| Día 03 | Modelo OSI y TCP/IP | ⏳ |
+| Día 03 | [Modelo OSI y TCP/IP](dias/dia-03-modelo-osi-y-tcp-ip/README.md) | ✅ |
 | Día 04 | Introducción a la CLI | ⏳ |
 | Día 05 | Ethernet LAN Switching (parte 1) | ⏳ |
 | Día 06 | Ethernet LAN Switching (parte 2) | ⏳ |
