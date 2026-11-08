@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 5 de 64 &nbsp; `██░░░░░░░░░░░░░░░░░░` 8 % &nbsp;·&nbsp; actualizado el 2026-11-08
+**Avance:** 10 de 64 &nbsp; `███░░░░░░░░░░░░░░░░░` 16 % &nbsp;·&nbsp; actualizado el 2026-11-08
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -13,11 +13,11 @@ troubleshooting y preguntas de repaso.
 | Día 03 | [Modelo OSI y TCP/IP](dias/dia-03-modelo-osi-y-tcp-ip/README.md) | ✅ |
 | Día 04 | [Introducción a la CLI](dias/dia-04-introduccion-a-la-cli/README.md) | ✅ |
 | Día 05 | [Ethernet LAN Switching (parte 1)](dias/dia-05-ethernet-lan-switching-parte-1/README.md) | ✅ |
-| Día 06 | Ethernet LAN Switching (parte 2) | ⏳ |
-| Día 07 | Direcciones IPv4 (parte 1) | ⏳ |
-| Día 08 | Direcciones IPv4 (parte 2) | ⏳ |
-| Día 09 | Interfaces del switch | ⏳ |
-| Día 10 | Encabezado IPv4 | ⏳ |
+| Día 06 | [Ethernet LAN Switching (parte 2)](dias/dia-06-ethernet-lan-switching-parte-2/README.md) | ✅ |
+| Día 07 | [Direcciones IPv4 (parte 1)](dias/dia-07-direcciones-ipv4-parte-1/README.md) | ✅ |
+| Día 08 | [Direcciones IPv4 (parte 2)](dias/dia-08-direcciones-ipv4-parte-2/README.md) | ✅ |
+| Día 09 | [Interfaces del switch](dias/dia-09-interfaces-del-switch/README.md) | ✅ |
+| Día 10 | [Encabezado IPv4](dias/dia-10-encabezado-ipv4/README.md) | ✅ |
 | Día 11 | Fundamentos de enrutamiento y rutas estáticas | ⏳ |
 | Día 12 | La vida de un paquete | ⏳ |
 | Día 13 | Subnetting (parte 1) | ⏳ |
