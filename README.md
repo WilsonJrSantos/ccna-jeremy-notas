@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 17 de 64 &nbsp; `█████░░░░░░░░░░░░░░░` 27 % &nbsp;·&nbsp; actualizado el 2026-11-08
+**Avance:** 18 de 64 &nbsp; `██████░░░░░░░░░░░░░░` 28 % &nbsp;·&nbsp; actualizado el 2026-11-08
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -25,7 +25,7 @@ troubleshooting y preguntas de repaso.
 | Día 15 | [Subnetting (parte 3): VLSM](dias/dia-15-subnetting-parte-3-vlsm/README.md) | ✅ |
 | Día 16 | [VLAN (parte 1)](dias/dia-16-vlan-parte-1/README.md) | ✅ |
 | Día 17 | [VLAN (parte 2): trunks y router-on-a-stick](dias/dia-17-vlan-parte-2-trunks-y-router-on-a-stick/README.md) | ✅ |
-| Día 18 | VLAN (parte 3): VLAN nativa en el router y switch multicapa | ⏳ |
+| Día 18 | [VLAN (parte 3): VLAN nativa en el router y switch multicapa](dias/dia-18-vlan-parte-3-vlan-nativa-en-el-router-y-switc/README.md) | ✅ |
 | Día 19 | DTP y VTP | ⏳ |
 | Día 20 | Spanning Tree Protocol (parte 1) | ⏳ |
 | Día 21 | Spanning Tree Protocol (parte 2) | ⏳ |
