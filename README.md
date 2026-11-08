@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 13 de 64 &nbsp; `████░░░░░░░░░░░░░░░░` 20 % &nbsp;·&nbsp; actualizado el 2026-11-08
+**Avance:** 14 de 64 &nbsp; `████░░░░░░░░░░░░░░░░` 22 % &nbsp;·&nbsp; actualizado el 2026-11-08
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -21,7 +21,7 @@ troubleshooting y preguntas de repaso.
 | Día 11 | [Fundamentos de enrutamiento y rutas estáticas](dias/dia-11-fundamentos-de-enrutamiento-y-rutas-estaticas/README.md) | ✅ |
 | Día 12 | [La vida de un paquete](dias/dia-12-la-vida-de-un-paquete/README.md) | ✅ |
 | Día 13 | [Subnetting (parte 1)](dias/dia-13-subnetting-parte-1/README.md) | ✅ |
-| Día 14 | Subnetting (parte 2): clases B y A | ⏳ |
+| Día 14 | [Subnetting (parte 2): clases B y A](dias/dia-14-subnetting-parte-2-clases-b-y-a/README.md) | ✅ |
 | Día 15 | Subnetting (parte 3): VLSM | ⏳ |
 | Día 16 | VLAN (parte 1) | ⏳ |
 | Día 17 | VLAN (parte 2): trunks y router-on-a-stick | ⏳ |
