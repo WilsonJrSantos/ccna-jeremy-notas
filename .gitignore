@@ -1,0 +1,12 @@
+# Material con derechos de autor: no se sube
+*.pdf
+*.apkg
+*.pptx
+*.pka
+# Imagenes de las diapositivas y labs de Jeremy: solo se suben si marcas la opcion en la herramienta
+img/
+.apuntes_version
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+~$*
