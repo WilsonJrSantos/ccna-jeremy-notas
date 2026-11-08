@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 10 de 64 &nbsp; `███░░░░░░░░░░░░░░░░░` 16 % &nbsp;·&nbsp; actualizado el 2026-11-08
+**Avance:** 11 de 64 &nbsp; `███░░░░░░░░░░░░░░░░░` 17 % &nbsp;·&nbsp; actualizado el 2026-11-08
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -18,7 +18,7 @@ troubleshooting y preguntas de repaso.
 | Día 08 | [Direcciones IPv4 (parte 2)](dias/dia-08-direcciones-ipv4-parte-2/README.md) | ✅ |
 | Día 09 | [Interfaces del switch](dias/dia-09-interfaces-del-switch/README.md) | ✅ |
 | Día 10 | [Encabezado IPv4](dias/dia-10-encabezado-ipv4/README.md) | ✅ |
-| Día 11 | Fundamentos de enrutamiento y rutas estáticas | ⏳ |
+| Día 11 | [Fundamentos de enrutamiento y rutas estáticas](dias/dia-11-fundamentos-de-enrutamiento-y-rutas-estaticas/README.md) | ✅ |
 | Día 12 | La vida de un paquete | ⏳ |
 | Día 13 | Subnetting (parte 1) | ⏳ |
 | Día 14 | Subnetting (parte 2): clases B y A | ⏳ |
