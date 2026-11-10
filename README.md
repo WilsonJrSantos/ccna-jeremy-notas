@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 20 de 64 &nbsp; `██████░░░░░░░░░░░░░░` 31 % &nbsp;·&nbsp; actualizado el 2026-11-09
+**Avance:** 21 de 64 &nbsp; `███████░░░░░░░░░░░░░` 33 % &nbsp;·&nbsp; actualizado el 2026-11-09
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -28,7 +28,7 @@ troubleshooting y preguntas de repaso.
 | Día 18 | [VLAN (parte 3): VLAN nativa en el router y switch multicapa](dias/dia-18-vlan-parte-3-vlan-nativa-en-el-router-y-switc/README.md) | ✅ |
 | Día 19 | [DTP y VTP](dias/dia-19-dtp-y-vtp/README.md) | ✅ |
 | Día 20 | [Spanning Tree Protocol (parte 1)](dias/dia-20-spanning-tree-protocol-parte-1/README.md) | ✅ |
-| Día 21 | Spanning Tree Protocol (parte 2) | ⏳ |
+| Día 21 | [Spanning Tree Protocol (parte 2)](dias/dia-21-spanning-tree-protocol-parte-2/README.md) | ✅ |
 | Día 22 | Rapid Spanning Tree Protocol | ⏳ |
 | Día 23 | EtherChannel | ⏳ |
 | Día 24 | Enrutamiento dinámico | ⏳ |
