@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 21 de 64 &nbsp; `███████░░░░░░░░░░░░░` 33 % &nbsp;·&nbsp; actualizado el 2026-11-09
+**Avance:** 22 de 64 &nbsp; `███████░░░░░░░░░░░░░` 34 % &nbsp;·&nbsp; actualizado el 2026-11-09
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -29,7 +29,7 @@ troubleshooting y preguntas de repaso.
 | Día 19 | [DTP y VTP](dias/dia-19-dtp-y-vtp/README.md) | ✅ |
 | Día 20 | [Spanning Tree Protocol (parte 1)](dias/dia-20-spanning-tree-protocol-parte-1/README.md) | ✅ |
 | Día 21 | [Spanning Tree Protocol (parte 2)](dias/dia-21-spanning-tree-protocol-parte-2/README.md) | ✅ |
-| Día 22 | Rapid Spanning Tree Protocol | ⏳ |
+| Día 22 | [Rapid Spanning Tree Protocol](dias/dia-22-rapid-spanning-tree-protocol/README.md) | ✅ |
 | Día 23 | EtherChannel | ⏳ |
 | Día 24 | Enrutamiento dinámico | ⏳ |
 | Día 25 | RIP y EIGRP | ⏳ |
