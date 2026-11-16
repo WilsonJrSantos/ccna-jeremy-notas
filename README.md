@@ -4,7 +4,7 @@ Apuntes en español, día por día, del curso gratuito **CCNA 200-301 de [Jeremy
 teoría, trampas de examen, mis laboratorios en Packet Tracer con sus comandos, fallas para practicar
 troubleshooting y preguntas de repaso.
 
-**Avance:** 27 de 64 &nbsp; `████████░░░░░░░░░░░░` 42 % &nbsp;·&nbsp; actualizado el 2026-11-16
+**Avance:** 28 de 64 &nbsp; `█████████░░░░░░░░░░░` 44 % &nbsp;·&nbsp; actualizado el 2026-11-16
 
 | Día | Tema | Estado |
 |---|---|---|
@@ -35,7 +35,7 @@ troubleshooting y preguntas de repaso.
 | Día 25 | [RIP y EIGRP](dias/dia-25-rip-y-eigrp/README.md) | ✅ |
 | Día 26 | [OSPF (parte 1)](dias/dia-26-ospf-parte-1/README.md) | ✅ |
 | Día 27 | [OSPF (parte 2)](dias/dia-27-ospf-parte-2/README.md) | ✅ |
-| Día 28 | OSPF (parte 3) | ⏳ |
+| Día 28 | [OSPF (parte 3)](dias/dia-28-ospf-parte-3/README.md) | ✅ |
 | Día 29 | First Hop Redundancy Protocols | ⏳ |
 | Día 30 | TCP y UDP | ⏳ |
 | Día 31 | IPv6 (parte 1) | ⏳ |
